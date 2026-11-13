@@ -1,0 +1,6 @@
+ultralytics>=8.3.0
+lap>=0.5.12
+opencv-python
+streamlit>=1.50
+pandas
+numpy

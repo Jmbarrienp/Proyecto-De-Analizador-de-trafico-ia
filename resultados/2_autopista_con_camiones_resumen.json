@@ -1,0 +1,25 @@
+{
+  "video": "videos/2_autopista_con_camiones.mp4",
+  "segundos_de_video": 42.4,
+  "segundos_de_procesamiento": 124.1,
+  "fps_procesamiento": 8.5,
+  "total_contados": 67,
+  "contados_por_clase": {
+    "Automovil": 59,
+    "Motocicleta": 0,
+    "Bus": 0,
+    "Camion": 8
+  },
+  "direccion": {
+    "bajando": 32,
+    "subiendo": 35
+  },
+  "vehiculos_unicos_detectados": {
+    "Automovil": 143,
+    "Motocicleta": 0,
+    "Bus": 17,
+    "Camion": 59
+  },
+  "vehiculos_por_minuto": 94.8,
+  "nivel_congestion_final": "Medio"
+}

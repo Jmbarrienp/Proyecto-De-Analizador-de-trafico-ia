@@ -1,0 +1,25 @@
+{
+  "video": "videos/1_interseccion_semaforo_1.mp4",
+  "segundos_de_video": 60.0,
+  "segundos_de_procesamiento": 99.9,
+  "fps_procesamiento": 18.0,
+  "total_contados": 9,
+  "contados_por_clase": {
+    "Automovil": 9,
+    "Motocicleta": 0,
+    "Bus": 0,
+    "Camion": 0
+  },
+  "direccion": {
+    "bajando": 3,
+    "subiendo": 6
+  },
+  "vehiculos_unicos_detectados": {
+    "Automovil": 47,
+    "Motocicleta": 4,
+    "Bus": 0,
+    "Camion": 1
+  },
+  "vehiculos_por_minuto": 9.0,
+  "nivel_congestion_final": "Medio"
+}
